@@ -1,0 +1,2 @@
+Technique de programmation faisant le lien entre le monde relationnel de la base de données
+ et le monde objet de la programmation orientée objet.

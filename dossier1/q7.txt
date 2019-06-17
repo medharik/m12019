@@ -1,0 +1,5 @@
+REST est un style d'architecture réseau pour Web Services qui met l'accent sur la
+définition de ressources identifiées par des URI, et utilise les messages du protocole
+HTTP pour définir la sémantique de la communication client/serveur: GET pour le
+rapatriement d'une ressource, POST pour une création, PUT pour une
+modification/création, DELETE pour un effacement.
